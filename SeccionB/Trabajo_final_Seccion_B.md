@@ -623,7 +623,5 @@ resettest(modeloOcupacion)
     ## data:  modeloOcupacion
     ## RESET = 2.1447, df1 = 2, df2 = 752, p-value = 0.1178
 
-Podemos ver que p = 0.03149 \< 0.05, rechazo H0, mi modelo no esta
-especificado correctamente.  
-Es necesario revisar la estructura de mi modelo: Agregar mas variables o
-quitar variables.
+Podemos ver que p = 0.1178 \> 0.05, no rechazo H0, mi modelo esta
+especificado correctamente.

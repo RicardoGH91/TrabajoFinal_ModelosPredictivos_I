@@ -401,5 +401,4 @@ resettest(modeloOcupacion)
 
 ```
 
-Podemos ver que p = 0.03149 < 0.05, rechazo H0, mi modelo no esta especificado correctamente.  
-Es necesario revisar la estructura de mi modelo: Agregar mas variables o quitar variables.  
+Podemos ver que p = 0.1178 > 0.05, no rechazo H0, mi modelo esta especificado correctamente.  
